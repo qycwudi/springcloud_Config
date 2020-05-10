@@ -1,3 +1,2 @@
-logging:
-  level:
-    com.qyc.service.Payservice: debug
+server:
+  port: 3356
